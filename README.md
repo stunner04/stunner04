@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Verma</h1>
-<h3 align="center">Hey folks!</h3>
+<h1 align="center">Hey folks! I'm Yash Verma</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stunner04&label=Profile%20views&color=0e75b6&style=flat" alt="stunner04" /> </p>
 
