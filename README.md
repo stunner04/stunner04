@@ -1,14 +1,19 @@
+<img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png" 
+     height = "100%" />
+
 <h1 align="center">Hey folks! I'm Yash Verma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stunner04&label=Profile%20views&color=0e75b6&style=flat" alt="stunner04" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stunner04&label=Profile%20views&color=0e75b6&style=flat" alt="stunner04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunner04" alt="stunner04" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stunner04](https://github.com/stunner04)
 
 - 📫 How to reach me **yashv0347@gmail.com**
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunner04" alt="stunner04" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
