@@ -1,33 +1,84 @@
-<img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png" 
-     height = "100%" />
-
-<h1 align="center">Hey folks! I'm Yash Verma🧑🏽‍💻</h1>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<div align="center">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" />
+</div>
+<h1 align="center">Hey folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Verma 🧑🏽‍💻</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stunner04&label=Profile%20views&color=0e75b6&style=flat" alt="stunner04" /> </p>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 32px></picture> **About Me**
+🌱 I’m currently learning **Android Development with Kotlin**
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
+🏫 Upgrading Coding skills
 
-- 👨‍💻 All of my projects are available at [https://github.com/stunner04](https://github.com/stunner04)
+👨‍💻 All of my projects are available at [https://github.com/stunner04](https://github.com/stunner04)
 
-- 📫 How to reach me **yashv0347@gmail.com**
-<hr>
+📫 How to reach me **yashv0347@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunner04" alt="stunner04" /></a> </p>
+:boy: Get to know me - **[Resume]()**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-verma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yashv_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashv_04" height="30" width="40" /></a>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> **Languages and Tools**
+<br>
+<p align="center"> 
+    <a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="90" alt="androidstudio logo" />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="90" alt="android logo" />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="90" alt="kotlin logo" />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="90" alt="firebase logo" />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="90" alt="sqlite logo" />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" height="90" alt="github logo" />
+</a>
+<img width="12" />     
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="90" alt="vscode logo" />
+</a>
+<img width="12" />     
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="90" alt="vscode logo" />
+</a>
+    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="29"> **My Github Stats**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" width="100%" alt="stats_banner">
+</div><br>
+
+ |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
+| -----------                                                                                                                                                                                        | -----------                                                                                                                          |
+| <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stunner04&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=6" alt="Yash Verma's GitHub Stats"></div>    | <div align="center"> <img src="https://streak-stats.demolab.com?user=stunner04&count_private=true&theme=algolia&border_radius=6" alt="GitHub Streak"> </div>  |
+| <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stunner04&layout=compact&show_icons=true&theme=algolia&border_radius=6" alt="Most Used Languages"></div>   | <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stunner04&algolia&border_radius=6" alt="Yash Verma"></div>     |
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stunner04&theme=xcode&bg_color=0f1621&color=408DA4&line=5BCDEC&point=FEFEFE&area=true&hide_border=true)](https://github.com/stunner04/github-readme-activity-graph" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stunner04&" alt="stunner04" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stunner04&show_icons=true&locale=en" alt="stunner04" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stunner04&show_icons=true&locale=en&layout=compact" alt="stunner04" /></p>
 
+<div align="center">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="68" style="padding: 22px>
+<a href="https://linkedin.com/in/yash-verma"><img src="https://img.shields.io/badge/-Yash%20Verma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="35" width=""/></a>
+<a href="mailto:yashv0347@gmail.com"><img src="https://img.shields.io/badge/yashv0347@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="35" width=""/></a>
+<a href="https://www.instagram.com/0_yashv_04_9"><img src="https://img.shields.io/badge/-0_yashv_04_9-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="35" width=""/></a>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="68">     
+</div>
