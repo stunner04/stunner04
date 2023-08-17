@@ -42,16 +42,16 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" height="90" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="90" alt="c++ logo" />
 </a>
 <img width="12" />     
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="90" alt="vscode logo" />
 </a>
-<img width="12" />     
+<img width="12" />
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="90" alt="vscode logo" />
-</a>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" height="90" alt="github logo" />
+</a>  
     
 </p>
 
